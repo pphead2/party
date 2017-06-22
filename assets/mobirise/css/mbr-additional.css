@@ -484,11 +484,33 @@ h6,
 #features1-6 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #cccccc;
 }
+#features1-6 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features1-6 .mbr-cards-col:nth-child(even) .card-title {
+  color: #232323;
+}
 #features1-4 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
+#features1-4 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#features1-4 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #232323;
+}
+#features1-4 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #features1-5 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #cccccc;
+}
+#features1-5 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
+#social-buttons4-f .mbr-section-title,
+#social-buttons4-f .btn-social {
+  color: #fff;
 }
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
@@ -565,4 +587,11 @@ h6,
 }
 #pricing-table1-9 .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#pricing-table1-9 .mbr-price-figure {
+  font-size: 48px;
+}
+#social-buttons4-d .mbr-section-title,
+#social-buttons4-d .btn-social {
+  color: #fff;
 }
