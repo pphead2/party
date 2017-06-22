@@ -49,7 +49,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/23-2000x1318.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2312-2000x1606.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -207,7 +207,7 @@
               "src": "@PROJECT_PATH@/assets/images/23-194x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -217,8 +217,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DJ PANERGY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BOOK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home#features1-6\" aria-expanded=\"false\">AVAILABLE SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BUNDLE PACKAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DJ PANERGY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home#features1-6\" aria-expanded=\"false\">AVAILABLE SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BUNDLE PACKAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -262,7 +262,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-600x314.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dj-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -278,7 +278,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-600x318.jpg",
+              "src": "@PROJECT_PATH@/assets/images/light-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -294,7 +294,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/3-600x320.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smoke-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -390,7 +390,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/4-600x315.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -406,7 +406,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-600x314.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ac-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -422,7 +422,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-600x308.jpg",
+              "src": "@PROJECT_PATH@/assets/images/secuirty-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -512,7 +512,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/7-600x320.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bbq-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -528,7 +528,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/8-600x309.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clean-up-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -544,7 +544,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD +</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/9-600x313.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mystery-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -619,7 +619,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME ON",
+          "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kfchuk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/djpanldn\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
@@ -724,7 +724,7 @@
               "src": "@PROJECT_PATH@/assets/images/23-194x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -734,8 +734,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DJ PANERGY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BOOK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home#features1-6\" aria-expanded=\"false\">AVAILABLE SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BUNDLE PACKAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DJ PANERGY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home#features1-6\" aria-expanded=\"false\">AVAILABLE SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Bookings\">BUNDLE PACKAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -846,7 +846,7 @@
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": true,
+            "showButtons": false,
             "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": ""
@@ -914,7 +914,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW US ON",
+          "text": "FOLLOW US&nbsp;",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/kfchuk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/djpanldn/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
